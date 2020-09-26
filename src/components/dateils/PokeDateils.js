@@ -218,7 +218,7 @@ export default class PokeDateils extends Component {
             <div className="row align-items-center">
               <div className="imagePokemon col-md-3 ">
                 <img
-                  src={this.state.imageUrl}
+                  src={this?.state?.imageUrl}
                   className="card-img-top rounded mx-auto mt-2"
                   alt={this.state.name}
                 />

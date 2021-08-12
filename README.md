@@ -2,6 +2,9 @@
 This project was developed using [ReactJS](https://github.com/facebook/create-react-app).
 The application consumes an [API pokeapi.co](https://pokeapi.co/) and lists in a dashboard in a paginated way all Pokémon available in the [API pokeapi.co](https://pokeapi.co/). Displaying details of each Pokémon by clicking on the card.
 ******
+
+## Trying and testing
+[click in here to trying](https://devpokemonslist.netlify.app/#/)
 ## See below the application running
 
 ![](https://github.com/douglasmatosdev/pokemon/blob/master/src/components/assets/pokemon-readme-gif.gif)
